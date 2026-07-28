@@ -6,6 +6,11 @@
       "dom.iterable",
       "esnext"
     ],
+<<<<<<< HEAD
+=======
+    "allowJs": false,
+    "skipLibCheck": true,
+>>>>>>> origin/main
     "strict": true,
     "noEmit": true,
     "esModuleInterop": true,
@@ -14,18 +19,23 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
+<<<<<<< HEAD
     "skipLibCheck": true,
     "plugins": [
       {
         "name": "next"
       }
     ],
+=======
+    "incremental": true,
+>>>>>>> origin/main
     "baseUrl": ".",
     "paths": {
       "@/*": [
         "./*"
       ]
     },
+<<<<<<< HEAD
     "allowJs": true,
     "incremental": true
   },
@@ -34,6 +44,19 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
+=======
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+>>>>>>> origin/main
   ],
   "exclude": [
     "node_modules"

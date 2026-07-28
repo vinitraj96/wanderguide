@@ -248,13 +248,13 @@ export async function GET(req: NextRequest) {
 
     const allRecent = unique(
       recentCandidates
-        .map(id => toVideo(byId.get(id), place))
+        .map((id: string) => toVideo(byId.get(id), place))
         .filter(Boolean) as Video[]
     );
 
     const allBest = unique(
       bestCandidates
-        .map(id => toVideo(byId.get(id), place))
+        .map((id: string) => toVideo(byId.get(id), place))
         .filter(Boolean) as Video[]
     );
 

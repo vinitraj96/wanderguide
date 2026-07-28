@@ -74,3 +74,8 @@ Make sure:
 - API key restrictions, if enabled, allow YouTube Data API v3.
 
 Do not put the key in `NEXT_PUBLIC_YOUTUBE_API_KEY`.
+
+
+## TypeScript strict-mode fix
+The video ID callback is explicitly typed as `string` so `npm run build`
+passes with strict TypeScript checking.

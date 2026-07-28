@@ -1,0 +1,124 @@
+[
+  {
+    "id": "chikmagalur",
+    "name": "Chikmagalur",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "Karnataka",
+    "lat": 13.3161,
+    "lon": 75.772,
+    "population": 118401,
+    "slug": "chikmagalur",
+    "attractions": [
+      "Mullayanagiri",
+      "Baba Budangiri",
+      "Jhari Falls",
+      "Hebbe Falls",
+      "Hirekolale Lake",
+      "Kudremukh"
+    ]
+  },
+  {
+    "id": "coorg",
+    "name": "Coorg",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "Karnataka",
+    "lat": 12.3375,
+    "lon": 75.8069,
+    "population": 0,
+    "slug": "coorg",
+    "attractions": [
+      "Abbey Falls",
+      "Raja's Seat",
+      "Mandalpatti",
+      "Dubare Elephant Camp",
+      "Talacauvery"
+    ]
+  },
+  {
+    "id": "bengaluru",
+    "name": "Bengaluru",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "Karnataka",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "population": 8443675,
+    "slug": "bengaluru",
+    "attractions": [
+      "Lalbagh Botanical Garden",
+      "Cubbon Park",
+      "Bangalore Palace",
+      "Nandi Hills"
+    ]
+  },
+  {
+    "id": "hampi",
+    "name": "Hampi",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "Karnataka",
+    "lat": 15.335,
+    "lon": 76.46,
+    "population": 0,
+    "slug": "hampi",
+    "attractions": [
+      "Virupaksha Temple",
+      "Vijaya Vittala Temple",
+      "Hampi Bazaar",
+      "Matanga Hill"
+    ]
+  },
+  {
+    "id": "gokarna",
+    "name": "Gokarna",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "Karnataka",
+    "lat": 14.5479,
+    "lon": 74.3188,
+    "population": 15000,
+    "slug": "gokarna",
+    "attractions": [
+      "Om Beach",
+      "Kudle Beach",
+      "Half Moon Beach",
+      "Mahabaleshwar Temple"
+    ]
+  },
+  {
+    "id": "munnar",
+    "name": "Munnar",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "Kerala",
+    "lat": 10.0889,
+    "lon": 77.0595,
+    "population": 0,
+    "slug": "munnar",
+    "attractions": [
+      "Eravikulam National Park",
+      "Mattupetty Dam",
+      "Top Station",
+      "Tea Gardens"
+    ]
+  },
+  {
+    "id": "ooty",
+    "name": "Ooty",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "Tamil Nadu",
+    "lat": 11.4102,
+    "lon": 76.695,
+    "population": 88430,
+    "slug": "ooty",
+    "attractions": [
+      "Ooty Lake",
+      "Doddabetta Peak",
+      "Botanical Garden",
+      "Pykara Falls"
+    ]
+  }
+]

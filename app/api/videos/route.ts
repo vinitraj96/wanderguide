@@ -161,7 +161,11 @@ function toVideo(item: any, place: string): Video | null {
 }
 
 function unique(videos: Video[]) {
-  return [...new Map(videos.map(v => [v.id, v])).values()];
+  const map = new Map<string, Video>();
+  for (const video of videos) {
+    map.set(video.id, video);
+  }
+  return Array.from(map.values());
 }
 
 function cacheKey(place: string) {

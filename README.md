@@ -74,5 +74,3 @@ Make sure:
 - API key restrictions, if enabled, allow YouTube Data API v3.
 
 Do not put the key in `NEXT_PUBLIC_YOUTUBE_API_KEY`.
-"# wanderguide" 
-"# wanderguide" 
